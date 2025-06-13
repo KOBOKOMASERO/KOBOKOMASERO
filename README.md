@@ -2,17 +2,17 @@
 
 I'm a budding scientific programmer with a passion for climate, code, and collaboration.
 
-🔬 **Background**: I'm currently deepening my skills in **Python** and **Fortran**, two powerful tools I aim to use in solving real-world challenges in **Numerical Weather Prediction (NWP)** and **atmospheric science**.
+🔬 **Background**: I'm a trained **meteorologist** and practicing **weather forecaster**, currently expanding my technical skillset in **Python** and learning **Fortran**. My long-term goal is to transition into **Numerical Weather Prediction (NWP)** and apply these tools to advance forecasting, modeling, and atmospheric science.
 
 🌦️ As an aspiring weather modeler, I’m particularly focused on:
-- High-performance computing for environmental simulations
-- Weather and climate data analysis
-- Building tools that empower research and resilience in meteorology
+- High-performance computing for environmental simulations.
+- Weather and climate data analysis.
+- Building tools that empower research and resilience in meteorology.
 
 🤝 I’m eager to:
-- Collaborate on open-source Python projects
-- Contribute to scientific computing communities
-- Connect with fellow developers, meteorologists, and climate scientists
+- Collaborate on open-source Python projects.
+- Contribute to scientific computing communities.
+- Connect with fellow developers, meteorologists, and climate scientists.
 
 🎧 **Fun fact**: When I’m not coding or studying the skies, I create music — blending creativity in both the arts and the sciences.
 
